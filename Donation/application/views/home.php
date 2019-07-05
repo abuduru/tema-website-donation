@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -19,23 +20,23 @@
     <link rel="apple-touch-icon" href=" <?php echo base_url();?>assets/images/apple-touch-icon.png">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href=" http://localhost/Donation/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href=" <?php echo base_url();?>assets/css/bootstrap.min.css">
     <!-- Site CSS -->
-    <link rel="stylesheet" href="http://localhost/Donation/style.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>style.css">
     <!-- Colors CSS -->
-    <link rel="stylesheet" href="http://localhost/Donation/assets/css/colors.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/css/colors.css">
     <!-- ALL VERSION CSS -->
-    <link rel="stylesheet" href="http://localhost/Donation/assets/css/versions.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/css/versions.css">
     <!-- Responsive CSS -->
-    <link rel="stylesheet" href="http://localhost/Donation/assets/css/responsive.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/css/responsive.css">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href=" http://localhost/Donation/assets/css/custom.css">
-     <link rel="stylesheet" href="http://localhost/Donation/assets/css/animate.css">
+    <link rel="stylesheet" href=" <?php echo base_url();?>assets/css/custom.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/css/animate.css">
 
-     <link href="http://localhost/Donation/assets/css/font-awesome.min.css" rel="stylesheet">
+     <link href="<?php echo base_url();?>assets/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- Modernizer for Portfolio -->
-    <script src="http://localhost/Donation/assets/js/modernizer.js"></script>
+    <script src="<?php echo base_url();?>assets/js/modernizer.js"></script>
 
 
     <!--[if lt IE 9]>
